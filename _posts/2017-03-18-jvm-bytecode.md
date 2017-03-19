@@ -6,7 +6,9 @@ author: Thespit
 ---
 <h2>{{page.title}}</h2>
 
-<h3>{{page.author}}</h2>
+_{{page.author}}_
+
+_原创文章，转载请标明作者_
 
 ## 背景介绍
 

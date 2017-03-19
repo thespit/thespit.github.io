@@ -2,8 +2,11 @@
 layout: default
 title: "Java语言和虚拟机学习-虚拟机和字节码"
 date: 2017-03-18
+author: Thespit
 ---
 <h2>{{page.title}}</h2>
+
+<h3>{{page.author}}</h2>
 
 ## 背景介绍
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "使用Implementation Intention行为意图应对拖延"
-date: 2017-11-11
+title: "如何在眼球经济时代编写博客"
+date: 2017-11-12
 author: Thespit
 ---
 <h2>{{page.title}}</h2>

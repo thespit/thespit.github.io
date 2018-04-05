@@ -22,8 +22,7 @@ Redis是一个基于TCP的请求响应式服务器。一条Redis指令从客户�
 
 通过ping命令可以查看两台机器之间的RTT值。
 
-![0F621C6E9DE56911CF49E1C46EFE6C](../pic/30F621C6E9DE56911CF49E1C46EFE6C4.jpg)
-![0F621C6E9DE56911CF49E1C46EFE6C](pic/30F621C6E9DE56911CF49E1C46EFE6C4.jpg)
+![0F621C6E9DE56911CF49E1C46EFE6C](https://thespit.github.io/pic/30F621C6E9DE56911CF49E1C46EFE6C4.jpg)
 
 可以看到哪怕是往远程服务器发送一个ping消息平均都需要2.438 ms才能走一个来回。
 
@@ -157,11 +156,11 @@ https://cloud.tencent.com/document/product/239/8034?fromSource=gwzcw.14349.14349
 
 首先看一下我本地ping服务器的延迟，大概是2.4ms左右。
 
-![IMAGE](../_pic/23100E7C8976963028BC530335F4E6E0.jpg)
+![IMAGE](https://thespit.github.io/pic/23100E7C8976963028BC530335F4E6E0.jpg)
 
 程序输出结果：
 
-![IMAGE](../_pic/7E1BA5751F2D7AA10E81B014E6E84CC4.jpg)
+![IMAGE](https://thespit.github.io/pic/7E1BA5751F2D7AA10E81B014E6E84CC4.jpg)
 
 分析：
 

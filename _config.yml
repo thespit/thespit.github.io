@@ -1,2 +1,3 @@
 name: thespit
-markdown: jekyll-theme-merlot
+markdown: kramdown
+theme: jekyll-theme-merlot

@@ -4,10 +4,6 @@ title: "Redis Pipelining管道模式介绍"
 date: 2018-04-05
 author: Thespit
 ---
-_{{page.author}}_
-
-_原创文章，转载请标明作者_
-
 # 1. 背景介绍
 
 Redis官网有一篇文章提到了[通过使用Pipelining来提升Redis处理性能](https://redis.io/topics/pipelining)。

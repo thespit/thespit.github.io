@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: test
 title: "第一个blog"
 date: 2017-02-19
 ---

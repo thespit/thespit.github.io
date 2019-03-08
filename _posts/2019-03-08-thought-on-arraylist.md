@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: post
 title: "从ArrayList的优化中想到的"
 date: 2019-03-08
 author: Thespit
 ---
-<h2>{{page.title}}</h2>
-
 _{{page.author}}_
 
 在JDK7中ArrayList有一个小的改动，使用延迟加载的思想，默认构造函数不再初始化生成一个大小为10的数组，而是将elementData先赋值为一个共享的空数组。

@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: post
 title: "使用Implementation Intention行为意图应对拖延"
 date: 2017-11-11
 author: Thespit
 ---
-<h2>{{page.title}}</h2>
-
 _{{page.author}}_
 
 _原创文章，转载请标明作者_

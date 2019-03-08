@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: post
 title: "Redis Pipelining管道模式介绍"
 date: 2018-04-05
 author: Thespit
 ---
-<h2>{{page.title}}</h2>
-
 _{{page.author}}_
 
 _原创文章，转载请标明作者_

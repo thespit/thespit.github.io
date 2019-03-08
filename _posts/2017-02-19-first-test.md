@@ -1,9 +1,11 @@
 ---
-layout: test
+layout: post
 title: "第一个blog"
 date: 2017-02-19
 ---
-<h2>{{page.title}}</h2>
+_{{page.author}}_
+
+_原创文章，转载请标明作者_
 
 只是测试。
 

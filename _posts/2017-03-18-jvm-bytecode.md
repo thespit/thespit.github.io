@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: post
 title: "Java语言和虚拟机学习-虚拟机和字节码"
 date: 2017-03-18
 author: Thespit
 ---
-<h2>{{page.title}}</h2>
-
 _{{page.author}}_
 
 _原创文章，转载请标明作者_
